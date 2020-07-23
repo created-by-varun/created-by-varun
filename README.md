@@ -6,7 +6,8 @@
 
 <p align='center'>
   Freelancer @Upwork.com <br>
-  I make websites, apps and games.
+  I make websites, apps and games. <br>
+  I also fight crime
 </p>
 
 
