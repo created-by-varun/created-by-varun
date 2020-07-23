@@ -23,7 +23,7 @@
 
 
 <p align='center'>
-  View my portfolio: <a target="_blank" href='https://its-varun.netlify.app'>Click Here!</a> <br>
+  🌐 View my portfolio: <a target="_blank" href='https://its-varun.netlify.app'>Click Here!</a> <br>
   📫 How to reach me: <a href='mailto:varunvirupaksha321@gmail.com'>varunvirupaksha321@gmail.com</a>
 </p>
 <p align='center'>
