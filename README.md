@@ -26,5 +26,5 @@
   📫 How to reach me: <a href='mailto:varunvirupaksha321@gmail.com'>varunvirupaksha321@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/created-by-varun/created-by-varun"></a> hipsters and nerds come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/created-by-varun/created-by-varun"></a>
 </p>
