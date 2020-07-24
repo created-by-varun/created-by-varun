@@ -32,6 +32,7 @@
   🌐 View my portfolio: <a target="_blank" href='https://its-varun.netlify.app'>Click Here!</a> <br>
   📫 How to reach me: <a href='mailto:varunvirupaksha321@gmail.com'>varunvirupaksha321@gmail.com</a>
   <br>
+  ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=created-by-varun&show_icons=true&theme=radical)
  
   
 <p align='center'>
