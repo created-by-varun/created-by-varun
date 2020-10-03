@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Varun V</h1>
-<h3 align="center">A web/app/game developer from Bangalore, India</h3>
+<h1 align="center">Hi 👋, I'm Varun</h1>
+<h3 align="center">I make websites, apps and games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=created-by-varun" alt="created-by-varun" /> </p>
 
