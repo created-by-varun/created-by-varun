@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=created-by-varun&layout=compact" alt="created-by-varun" /></p>
 
-<br />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=created-by-varun&show_icons=true" alt="created-by-varun" /></p>
 
