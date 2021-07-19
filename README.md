@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=created-by-varun" alt="created-by-varun" /> </p>
 
-- 👨‍💻 View my portfolio [https://its-varun.netlify.app/](https://its-varun.netlify.app/)
+- 👨‍💻 View my portfolio (Not updated for a while) [https://its-varun.netlify.app/](https://its-varun.netlify.app/)
 
 - 📫 How to reach me **varunvirupaksha321@gmail.com**
 
